@@ -3,7 +3,7 @@ For archiving Frictionless Data Fellowship work
 
 # FDF Summary
 
-This (Fellows Programme)[https://fellows.frictionlessdata.io/] is part of the Frictionless Data for Reproducible Research project at Open (Knowledge Foundation)[https://okfn.org/]. The project is funded by the (Alfred P. Sloan Foundation)[https://sloan.org/]. (FD)[https://frictionlessdata.io/] is a set of specifications for data and metadata interoperability, accompanied by a collection of software libraries that implement these specifications, and a range of best practices for data management.
+This [Fellows Programme](https://fellows.frictionlessdata.io/) is part of the Frictionless Data for Reproducible Research project at Open [Knowledge Foundation](https://okfn.org/). The project is funded by the [Alfred P. Sloan Foundation](https://sloan.org/). [FD](https://frictionlessdata.io/) is a set of specifications for data and metadata interoperability, accompanied by a collection of software libraries that implement these specifications, and a range of best practices for data management.
 
 # Fellowship Organization
 
