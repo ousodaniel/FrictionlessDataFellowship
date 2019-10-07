@@ -1,4 +1,4 @@
-# Frictionless Data (FD) Fellowship (FDF))
+# Frictionless Data (FD) Fellowship (FDF)
 For archiving Frictionless Data Fellowship work
 
 # FDF Summary
