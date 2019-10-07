@@ -11,15 +11,15 @@ The fellowship will run for nine months from September 2019 to June 2020
 
 ## Syllabus
 
-The syllabus may be found (here)[http://fellows.frictionlessdata.io/syllabus/]
+The syllabus may be found [here](http://fellows.frictionlessdata.io/syllabus/)
 
 ## Lessons
 
-The lessons may be found (here)[http://fellows.frictionlessdata.io/lessons/]
+The lessons may be found [here](http://fellows.frictionlessdata.io/lessons/)
 
 ## Resources
 
-The resources may be found (here)[http://fellows.frictionlessdata.io/resources/]
+The resources may be found [here](http://fellows.frictionlessdata.io/resources/)
 
 ## Blogs
-You may check (here)[http://fellows.frictionlessdata.io/blog/] to catch-up with the activities associated with the fellowship
+You may check [here](http://fellows.frictionlessdata.io/blog/) to catch-up with the activities associated with the fellowship
