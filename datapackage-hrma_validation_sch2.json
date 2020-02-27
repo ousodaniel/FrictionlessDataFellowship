@@ -1,0 +1,44 @@
+"fields": [
+    {
+      "name": "S/ID",
+      "type": "string",
+      "format": "default",
+      "title": "s_id",
+      "description": "Sample lab id/name"
+    },
+    {
+      "name": "COI",
+      "type": "string",
+      "format": "default",
+      "title": "coi",
+      "description": "COI High-resolution melting analysis prediction of species identity of sample"
+    },
+    {
+      "name": "cyt b",
+      "type": "string",
+      "format": "default",
+      "title": "cyt_b",
+      "description": "cyt b High-resolution melting analysis prediction of species identity of sample"
+    },
+    {
+      "name": "16S rRNA ",
+      "type": "string",
+      "format": "default",
+      "title": "16_rrna",
+      "description": "16S rRNA High-resolution melting analysis prediction of species identity of sample"
+    },
+    {
+      "name": "Predicted by HRMA",
+      "type": "string",
+      "format": "default",
+      "title": "hrma_predict",
+      "description": "Sample id by combined analysis prediction"
+    },
+    {
+      "name": "Vouchered ID",
+      "type": "string",
+      "format": "default",
+      "title": "confirmed_id",
+      "description": "Vouchered sample id by sequencing"
+    }
+  ]

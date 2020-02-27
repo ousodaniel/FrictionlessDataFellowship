@@ -1,0 +1,58 @@
+"fields": [
+    {
+      "name": "Common name",
+      "type": "string",
+      "format": "default",
+      "title": "c_name",
+      "description": "Common name"
+    },
+    {
+      "name": "Species",
+      "type": "string",
+      "format": "default",
+      "title": "species",
+      "description": "Scientific name"
+    },
+    {
+      "name": "Family",
+      "type": "string",
+      "format": "default",
+      "title": "family",
+      "description": "Taxonomic family"
+    },
+    {
+      "name": "Tissue",
+      "type": "integer",
+      "format": "default",
+      "title": "tissue_sample",
+      "description": "Solid sample counts"
+    },
+    {
+      "name": "Blood",
+      "type": "integer",
+      "format": "default",
+      "title": "blood_sample",
+      "description": "Whole blood sample counts"
+    },
+    {
+      "name": "Total",
+      "type": "integer",
+      "format": "default",
+      "title": "tot_sample",
+      "description": "Blood plus tissue sample counts"
+    },
+    {
+      "name": "Seq_id_COI",
+      "type": "string",
+      "format": "default",
+      "title": "gi_genbank_coi",
+      "description": "Unique COI seq identifier for sequences deposited in GenBank"
+    },
+    {
+      "name": "Seq_id_cyt b",
+      "type": "string",
+      "format": "default",
+      "title": "gi_genbank_cytb",
+      "description": "Unique cyt b seq identifier for sequences deposited in GenBank"
+    }
+  ]
