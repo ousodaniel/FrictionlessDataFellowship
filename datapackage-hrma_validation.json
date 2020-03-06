@@ -77,6 +77,13 @@
       "schema": {
         "fields": [
           {
+            "name": "S/No.",
+            "type": "number",
+            "format": "default",
+            "title": "s_no",
+            "description": "Sample serial number"
+          },
+          {
             "name": "S/ID",
             "type": "string",
             "format": "default",
