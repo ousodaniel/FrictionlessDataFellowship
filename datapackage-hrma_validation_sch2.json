@@ -1,4 +1,12 @@
+{
 "fields": [
+    {
+      "name": "S/No.",
+      "type": "number",
+      "format": "default",
+      "title": "s_no",
+      "description": "Sample lab number"
+    },
     {
       "name": "S/ID",
       "type": "string",
@@ -42,3 +50,4 @@
       "description": "Vouchered sample id by sequencing"
     }
   ]
+}
