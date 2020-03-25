@@ -1,0 +1,150 @@
+{
+  "profile": "tabular-data-package",
+  "resources": [
+    {
+      "name": "algae_data",
+      "path": "https://raw.githubusercontent.com/Monsauce/Origin-omnivory-and-stability/master/Algae.csv",
+      "profile": "tabular-data-resource",
+      "schema": {
+        "fields": [
+          {
+            "name": "Day",
+            "type": "integer",
+            "format": "default"
+          },
+          {
+            "name": "Trophic",
+            "type": "string",
+            "format": "default"
+          },
+          {
+            "name": "Species",
+            "type": "string",
+            "format": "default"
+          },
+          {
+            "name": "Mesocosm",
+            "type": "integer",
+            "format": "default"
+          },
+          {
+            "name": "Replicate",
+            "type": "integer",
+            "format": "default"
+          },
+          {
+            "name": "Density",
+            "type": "number",
+            "format": "default"
+          },
+          {
+            "name": "Origin",
+            "type": "string",
+            "format": "default"
+          }
+        ]
+      }
+    },
+    {
+      "name": "snail_data",
+      "path": "https://raw.githubusercontent.com/Monsauce/Origin-omnivory-and-stability/master/Snail.csv",
+      "profile": "tabular-data-resource",
+      "schema": {
+        "fields": [
+          {
+            "name": "Day",
+            "type": "integer",
+            "format": "default"
+          },
+          {
+            "name": "Trophic",
+            "type": "string",
+            "format": "default"
+          },
+          {
+            "name": "Species",
+            "type": "string",
+            "format": "default"
+          },
+          {
+            "name": "Origin",
+            "type": "string",
+            "format": "default"
+          },
+          {
+            "name": "Mesocosm",
+            "type": "integer",
+            "format": "default"
+          },
+          {
+            "name": "Replicate",
+            "type": "integer",
+            "format": "default"
+          },
+          {
+            "name": "Density",
+            "type": "integer",
+            "format": "default"
+          },
+          {
+            "name": "Alive ",
+            "type": "integer",
+            "format": "default"
+          },
+          {
+            "name": "Consumed",
+            "type": "integer",
+            "format": "default"
+          }
+        ]
+      }
+    },
+    {
+      "name": "tile_sampling_data",
+      "path": "https://raw.githubusercontent.com/Monsauce/Origin-omnivory-and-stability/master/Tile.csv",
+      "profile": "tabular-data-resource",
+      "schema": {
+        "fields": [
+          {
+            "name": "Species ",
+            "type": "string",
+            "format": "default"
+          },
+          {
+            "name": "Trophic",
+            "type": "string",
+            "format": "default"
+          },
+          {
+            "name": "Replicate",
+            "type": "integer",
+            "format": "default"
+          },
+          {
+            "name": "Tile ",
+            "type": "integer",
+            "format": "default"
+          },
+          {
+            "name": "Quad",
+            "type": "integer",
+            "format": "default"
+          },
+          {
+            "name": "Day ",
+            "type": "integer",
+            "format": "default"
+          }
+        ]
+      }
+    }
+  ],
+  "name": "origin_omnivory_and_stability_data_package",
+  "title": "Origin omnivory and stability data package",
+  "contributors": [
+    {
+      "title": "Ouso",
+      "role": "author"
+    }
+  ]
+}
