@@ -67,7 +67,7 @@
       },
       "title": "Supplementary Table 1",
       "description": "Samples used in the HRM reference optimisations",
-      "format": "CSV",
+      "format": "csv",
       "encoding": "UTF-8"
     },
     {
@@ -129,7 +129,7 @@
       },
       "description": "Blind identification of DNA extracts",
       "title": "Supplementary Table 2",
-      "format": "CSV",
+      "format": "csv",
       "encoding": "UTF-8"
     }
   ],
